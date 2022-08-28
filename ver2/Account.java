@@ -28,6 +28,7 @@ public class Account {
 	}
 
 // A method that increases the balance by amount
+// New Comment for balance
 public void deposit(double amount) {
 	if(amount>0) {
 		balance += amount;
